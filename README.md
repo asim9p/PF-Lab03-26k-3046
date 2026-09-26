@@ -10,13 +10,13 @@ Hi! I'm a Software Engineering student at FAST-NUCES Karachi, just getting start
 ## What I'm Learning
 
 1. Programming fundamentals
-2. Software engineering concepts
-3. Building projects and improving my coding skills
+2. performing codes.
+3. Building projects.
 
 ## My Interests
 
-- Exploring programming languages and tools
-- Developing useful software projects
-- Learning from other developers
+- Gaming
+- New Technologies.
+- Learning new things.
 
 ***I'm excited to keep learning and growing as a software engineer!***
